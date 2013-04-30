@@ -1,0 +1,5 @@
+plugin.description: This plugin allows you to stream media files to VLC.
+plugin.author: Dgby714
+plugin.version: 1.0
+rtorrent.remote: error
+plugin.help: https://github.com/Dgby714/rutorrent-stream/wiki
